@@ -2,7 +2,7 @@
 
 ## Student Details
 **Name:** Pratyush Kumar Rout  
-**Registration Number:** 25BCE10372  
+**Registration Number:** 25BCE11240  
 **Branch:** B.Tech Computer Science and Engineering  
 **Course Code:** CSE0001  
 
@@ -56,7 +56,7 @@ For this task, I created a case study on UPI fraud and a prevention checklist. T
 
 ## Project Links
 
-- 🌐 **GitHub Repository:** https://github.com/Harsh-872/digital-literacy-project.git 
+- 🌐 **GitHub Repository:** https://github.com/pratyush-rout-vit-bhopal/digital-literacy-project.git
 - 📝 **Google Form (Quiz):** https://docs.google.com/forms/d/e/1FAIpQLScg8oua42Z-eTvi8Mlzzz3x8mjl1Ha95pMYKIwntJaiIsOXjw/viewform?usp=publish-editor
 
 ---
